@@ -1,1 +1,1 @@
-# codedeploy-demo-app
+# codedeploy-demo-app-pub
