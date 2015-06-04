@@ -1,6 +1,6 @@
 <?php
 
-$AppName = "Updated Demo App";
+$AppName =Break this shit! "Updated Demo App";
 
 ob_start();
 
